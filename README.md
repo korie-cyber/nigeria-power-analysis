@@ -30,15 +30,14 @@ systemic deterioration between January 2023 and December 2024.
 └── README.md
 ```
 ---
-```
+
 ## Project Documents
 
 | Document | Description |
 |---|---|
-| [Project Proposal](report/proposal.pdf) | Research questions, objectives, and methodology plan |
-| [Final Report](report/final_report.pdf) | Complete analysis, findings, and recommendations |
+| [Project Proposal](report/Emmanuel_Olafisoye_Proposal_Document_Karatu_Second_Semester.pdf) | Research questions, objectives, and methodology plan |
+| [Final Report](report/Emmanuel_Olafisoye_Final_Report_Karatu_Second_Semester.pdf) | Complete analysis, findings, and recommendations |
 
-```
 ---
 
 ## Methodology
