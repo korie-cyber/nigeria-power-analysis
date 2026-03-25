@@ -25,10 +25,20 @@ systemic deterioration between January 2023 and December 2024.
 │   ├── preprocessing.ipynb   # Data cleaning and preparation
 │   └── analysis.ipynb        # Main analysis and visualizations
 ├── report/
-│   └── nigeria_power_crisis_report.pdf   # Full written report
+│   ├── proposal.pdf          # Project proposal document
+│   └── final_report.pdf      # Full written report
 └── README.md
 ```
+---
+```
+## Project Documents
 
+| Document | Description |
+|---|---|
+| [Project Proposal](report/proposal.pdf) | Research questions, objectives, and methodology plan |
+| [Final Report](report/final_report.pdf) | Complete analysis, findings, and recommendations |
+
+```
 ---
 
 ## Methodology
