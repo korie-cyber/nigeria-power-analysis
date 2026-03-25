@@ -19,14 +19,14 @@ systemic deterioration between January 2023 and December 2024.
 ## Repository Structure
 ```
 ├── data/
-│   ├── raw/                  # Original unmodified dataset
-│   └── clean/                # Preprocessed and cleaned dataset
+│   ├── nigeria_power_genertion_raw/                  # Original unmodified dataset
+│   └── nigeria_power_generation_clean/                # Preprocessed and cleaned dataset
 ├── notebooks/
-│   ├── preprocessing.ipynb   # Data cleaning and preparation
-│   └── analysis.ipynb        # Main analysis and visualizations
+│   ├── Emmanuel_Olafisoye_Data_Cleaning_Notebook_Karatu_2nd_Semester.ipynb   # Data cleaning and preparation
+│   └── Emmanuel_Olafisoye_Analysis_Notebook_2nd_Semester_Karatu.ipynb        # Main analysis and visualizations
 ├── report/
-│   ├── proposal.pdf          # Project proposal document
-│   └── final_report.pdf      # Full written report
+│   ├── Emmanuel_Olafisoye_Proposal_Document_Karatu_Second_Semester.pdf          # Project proposal document
+│   └── Emmanuel_Olafisoye_Final_Report_Karatu_Second_Semester.pdf      # Full written report
 └── README.md
 ```
 ---
@@ -97,7 +97,7 @@ pip install pandas numpy scipy matplotlib seaborn jupyter
 jupyter notebook
 ```
 
-Run `preprocessing.ipynb` first, then `analysis.ipynb`.
+Run `Emmanuel_Olafisoye_Data_Cleaning_Notebook_Karatu_2nd_Semester.ipynb` first, then `Emmanuel_Olafisoye_Analysis_Notebook_2nd_Semester_Karatu.ipynb`.
 
 ---
 
